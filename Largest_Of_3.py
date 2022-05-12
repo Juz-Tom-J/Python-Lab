@@ -1,6 +1,6 @@
-a = input('Enter the 1st number: ')
-b = input('Enter the 2nd number: ')
-c = input('Enter the 3rd number: ')
+a = int(input('Enter the 1st number: '))
+b = int(input('Enter the 2nd number: '))
+c = int(input('Enter the 3rd number: '))
 
 largest = 0
 
