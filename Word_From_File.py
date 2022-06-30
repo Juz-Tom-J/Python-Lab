@@ -19,7 +19,7 @@ for w in f:
             spcl_sym+= 1
            
 print("Number of words: ", len(ws))
-print("Number of sentences: ", len(sen)-1)
+print("Number of sentences: ", len(sen))
 print("Number of uppercase letters: ", upcase)
 print("Number of lowercase letters: ", lowcase)
 print("Number of special symbols: ", spcl_sym)
